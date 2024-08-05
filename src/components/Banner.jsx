@@ -20,7 +20,7 @@ function Banner() {
                             <p className='text-gray-800 font-light'>International Brands</p>
                         </div>
                         <div >
-                            <h3 className='text-5xl font-bold' > 2,000 +</h3>
+                            <h3 className='text-5xl font-bold' > 2,00 +</h3>
                             <p className='text-gray-800 font-light'>International Brands</p>
                         </div>
                         <div>
